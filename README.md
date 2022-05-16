@@ -59,7 +59,7 @@ Project Test Cases
 
 **Test Report**
 
-[Test](https://www.google.com)
+[Test](https://testitfactory.atlassian.net/browse/JPET-20)
 
 
 
