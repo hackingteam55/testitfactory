@@ -49,7 +49,7 @@ Project Epic
  - The user should be able to user the application on mobile also (mobile friendly)
 
 Project Stories
- - [New account registration]()
+ - [New account registration](https://github.com/hackingteam55/testitfactory/blob/main/New_account_registration.jpg)
  - to be added
 Project Test Cases
  - to be added
