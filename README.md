@@ -71,7 +71,7 @@ Project Requirements
 In order to create hyperlink you need to:
 [The tile of the hyperlink](the actual link of the file)
 
-In order to **bold** ** are needed to be added to the beggining and the end of the word
+In order to **bold** "**" are needed to be added to the beggining and the end of the word
 
 
 
