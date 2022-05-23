@@ -68,6 +68,11 @@ Project Requirements
 **Test Report**
  - [**TracebilityMatrix**](https://github.com/hackingteam55/testitfactory/blob/main/Tracebility_Matrix1.jpg)
 
+In order to create hyperlink you need to:
+[The tile of the hyperlink](the actual link of the file)
+
+In order to **bold** ** are needed to be added to the beggining and the end of the word
+
 
 
 
