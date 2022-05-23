@@ -49,7 +49,7 @@ Project Epic
  - The user should be able to user the application on mobile also (mobile friendly)
 
 Project Stories
- - Mobile Friendly
+ - [New account registration]()
  - to be added
 Project Test Cases
  - to be added
