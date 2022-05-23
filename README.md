@@ -54,7 +54,7 @@ Project Stories
  - to be added
 
 Project Test Cases
- - [**User registration with new account**]()
+ - [**User registration with new account**](https://github.com/hackingteam55/testitfactory/blob/main/User_registration_with_new_account_tc.jpg)
 
 **Test Execution**
 
