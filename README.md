@@ -39,7 +39,7 @@ Project Requirements
 **Test case design** (based on Project stories)
 
 **Project Epic**
- - **[The user should be able to register]**(https://github.com/hackingteam55/testitfactory/blob/main/User_registration_epic.jpg)
+ - [**The user should be able to register**](https://github.com/hackingteam55/testitfactory/blob/main/User_registration_epic.jpg)
  - [The user should be able to login usgin a registered account](https://github.com/hackingteam55/testitfactory/blob/main/User_login_epic.jpg)
  - The user should be able to browse the store
  - The user should be able to add a product to the cart
