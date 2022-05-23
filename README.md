@@ -66,7 +66,7 @@ Project Requirements
 
 
 **Test Report**
- - [TracebilityMatrix](https://github.com/hackingteam55/testitfactory/blob/main/Tracebility_Matrix1.jpg)
+ - [**TracebilityMatrix**](https://github.com/hackingteam55/testitfactory/blob/main/Tracebility_Matrix1.jpg)
 
 
 
