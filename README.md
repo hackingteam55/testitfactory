@@ -61,6 +61,7 @@ Project Test Cases
 
 **Project Issues**
  - [User is unable to create a new account](https://github.com/hackingteam55/testitfactory/blob/main/User_is_unable_to_create_a_new_account.jpg)
+ - [**User is able to create an account using an email that contains bad words**](https://github.com/hackingteam55/testitfactory/blob/main/User_registration_with_bad_words_bug.jpg)
 
 
 
