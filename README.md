@@ -57,12 +57,15 @@ Project Test Cases
  - [**User registration with new account**](https://github.com/hackingteam55/testitfactory/blob/main/User_registration_with_new_account_tc.jpg)
 
 **Test Execution**
+ - [**TestCycle1**](https://github.com/hackingteam55/testitfactory/blob/main/TestCycle1.jpg)
+
+**Project Issues**
+ - [User is unable to create a new account](https://github.com/hackingteam55/testitfactory/blob/main/User_is_unable_to_create_a_new_account.jpg)
 
 
 
 **Test Report**
 
-[Test](https://github.com/hackingteam55/testitfactory/blob/main/account_registration_500_internal_error.jpg)
 
 
 
