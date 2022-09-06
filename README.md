@@ -66,7 +66,7 @@ Project Requirements
  - to be added
 
 **Project Test Cases**
- - [*User registration with new account*](https://github.com/hackingteam55/testitfactory/blob/main/User_registration_with_new_account_tc.jpg)
+ - [***User registration with new account***](https://github.com/hackingteam55/testitfactory/blob/main/User_registration_with_new_account_tc.jpg)
 
 **Test Execution**
  - [**TestCycle1**](https://github.com/hackingteam55/testitfactory/blob/main/TestCycle1.jpg)
